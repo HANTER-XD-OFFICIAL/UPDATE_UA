@@ -1,0 +1,5 @@
+{
+  "Anderson": ["10", "13", "7.0.0", "9", "12", "11"],
+  "model": ["GT-I9505", "SM-T835", "SM-S901U", "SM-A217F"],
+  "fb": ["com.facebook.adsmanager|MobileAdsManagerAndroid", "com.facebook.katana|FB4A"]
+}
