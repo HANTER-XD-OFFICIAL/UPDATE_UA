@@ -35,7 +35,7 @@ def Samsung(config):
     return ua
 
 # Example usage
-config_url = "https://raw.githubusercontent.com/your-username/repo-name/main/user_agent_config.json"
+config_url = "https://github.com/HANTER-XD-OFFICIAL/UPDATE_UA/blob/main/user_agent.json"
 config = load_config(config_url)
 if config:
     user_agent = Samsung(config)
